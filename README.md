@@ -5,7 +5,7 @@ I build developer tools and SaaS products — currently open to Senior Full-Stac
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Products I’ve Built
 
 | Product | Description |
 |--------|-------------|
