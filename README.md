@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Charles 👋
 
-<!--
-**agbakwucharles/agbakwucharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Engineer & Founder based in Colorado Springs.
 
-Here are some ideas to get you started:
+## What I'm Building
+- 🔗 [HookRoute](https://hookroute.dev) — Webhook reliability & routing infrastructure for developers
+- 📚 [ScholarMethod](https://scholarmethod.com) — Structured research tool for grad students & researchers  
+- 🌱 [Reground](https://reground.bio) — Field-to-report platform for ecological restoration teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+TypeScript · Next.js · React · Python · Django · PostgreSQL · AWS
+
+## Currently
+- 🔨 Building SaaS products
+- 💼 Open to Senior Full-Stack & Python Backend roles
+- 📫 [LinkedIn](https://www.linkedin.com/in/charles-agbakwu-088514101/)
