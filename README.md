@@ -48,5 +48,4 @@ I build developer tools and SaaS products — currently open to Senior Full-Stac
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-agbakwu-088514101/)
-[![HookRoute](https://img.shields.io/badge/hookroute.dev-6366f1?style=flat)](https://hookroute.dev)
 📧 agbakwucharles@gmail.com
