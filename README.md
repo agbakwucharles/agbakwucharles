@@ -7,11 +7,11 @@ I build developer tools and SaaS products — currently open to Senior Full-Stac
 
 ## 🚀 What I'm Building
 
-| Product | Description | Stack |
-|--------|-------------|-------|
-| 🔗 [HookRoute](https://hookroute.dev) | Webhook reliability & routing infrastructure for developers | TypeScript, Next.js, Supabase, PostgreSQL |
-| 📚 [ScholarMethod](https://scholarmethod.com) | Structured research platform for grad students & researchers | TypeScript, Next.js, Supabase, PostgreSQL |
-| 🌱 [Reground](https://reground.bio) | Field-to-report platform for ecological restoration teams | TypeScript, Next.js, Supabase, PostgreSQL |
+| Product | Description |
+|--------|-------------|
+| 🔗 [HookRoute](https://hookroute.dev) | Webhook reliability & routing infrastructure for developers |
+| 📚 [ScholarMethod](https://scholarmethod.com) | Structured research platform for grad students & researchers |
+| 🌱 [Reground](https://reground.bio) | Field-to-report platform for ecological restoration teams |
 
 ---
 
