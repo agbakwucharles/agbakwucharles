@@ -9,9 +9,9 @@ I build developer tools and SaaS products — currently open to Senior Full-Stac
 
 | Product | Description | Stack |
 |--------|-------------|-------|
-| 🔗 [HookRoute](https://hookroute.dev) | Webhook reliability & routing infrastructure for developers | TypeScript, Next.js |
-| 📚 [ScholarMethod](https://scholarmethod.com) | Structured research platform for grad students & researchers | TypeScript, Next.js |
-| 🌱 [Reground](https://reground.bio) | Field-to-report platform for ecological restoration teams | TypeScript, Next.js |
+| 🔗 [HookRoute](https://hookroute.dev) | Webhook reliability & routing infrastructure for developers | TypeScript, Next.js, Supabase, PostgreSQL |
+| 📚 [ScholarMethod](https://scholarmethod.com) | Structured research platform for grad students & researchers | TypeScript, Next.js, Supabase, PostgreSQL |
+| 🌱 [Reground](https://reground.bio) | Field-to-report platform for ecological restoration teams | TypeScript, Next.js, Supabase, PostgreSQL |
 
 ---
 
@@ -28,6 +28,7 @@ I build developer tools and SaaS products — currently open to Senior Full-Stac
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **Infrastructure & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -44,14 +45,9 @@ I build developer tools and SaaS products — currently open to Senior Full-Stac
 
 ---
 
-## 📊 GitHub Stats
-
-![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agbakwucharles&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-agbakwu-088514101/)
 [![HookRoute](https://img.shields.io/badge/HookRoute-hookroute.dev-6366f1?style=flat)](https://hookroute.dev)
-📧 charles@hookroute.dev
+📧 support@hookroute.app
+📧 agbakwucharles@gmail.com
