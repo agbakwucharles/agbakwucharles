@@ -9,8 +9,8 @@ I build developer tools and SaaS products — currently open to Senior Full-Stac
 
 | Product | Description |
 |--------|-------------|
-| 🔗 [HookRoute](https://hookroute.dev) | Webhook reliability & routing infrastructure for developers |
 | 📚 [ScholarMethod](https://scholarmethod.com) | Structured research platform for grad students & researchers |
+| 🔗 [HookRoute](https://hookroute.dev) | Webhook reliability & routing infrastructure for developers |
 | 🌱 [Reground](https://reground.bio) | Field-to-report platform for ecological restoration teams |
 
 ---
